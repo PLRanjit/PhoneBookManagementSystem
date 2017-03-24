@@ -36,13 +36,13 @@ CREATE TABLE `phonebook` (
 --
 
 INSERT INTO `phonebook` (`Name`, `Phone_No`) VALUES
-('Dubey', '9876543210'),
+('Shaun', '9876543210'),
 ('Dadu', '2134567890'),
 ('Kanu', '1234567890'),
 ('Jack', '3414567893'),
 ('Ramanujan', '1111111111'),
 ('Kon', '4451237653'),
-('Namrata', '2222222222');
+('Spidy', '2222222222');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
