@@ -1,8 +1,8 @@
 # PhoneBookManagementSystem
 
-mysql 			      ------- 	support library and include folder.
-phonebookdir.sql 	------- 	database
-PhoneBook 		    ------- 	source code
+mysql.zip		------- 	support library and include folder.
+phonebookdir.sql	------- 	database
+PhoneBook		------- 	source code
 
 
 1) copy mysql folder to c drive
