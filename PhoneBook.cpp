@@ -33,7 +33,7 @@ bool login(string us, string ps)
 {
     if(us.empty()||ps.empty()) {
         res = false;
-    } else if(us == "Namrata" && ps =="Namrata") {
+    } else if(us == "Username" && ps =="Password") {
         res = true;
     }
     return res;
